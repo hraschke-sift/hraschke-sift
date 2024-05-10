@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hraschke-sift
-- 💻 I’m a Frontend Developer on the Account Defense Team
+- 💻 I’m a Senior Software Engineer who has worked on a few teams
 - ⛱ In my free time, I like hiking, cooking, travelling, and playing music
 
 <!---
